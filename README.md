@@ -9,6 +9,10 @@ A few colleagues and I at MIT Lincoln Laboratory Supercomputing Center (LLSC) ha
 
 So far we have published five papers at the IEEE-HPEC Conference. Each of the papers are available in IEEE Xplore and arXiv.org.  The datasets that were compiled for these papers are available here on subpages, and more fields are available as CSV files. 
 
+### 2025: 
+A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Lincoln AI Computing Survey (LAICS) and Trends," *2025 IEEE High Performance Extreme Computing Conference (HPEC)*, 2025, pp. 1-12, \[[IEEE Xplore doi: 10.1109/HPEC67600.2025.11196427](https://doi.org/10.1109/HPEC67600.2025.11196427)\] \[[ArXiv.org/abs/2510.20931](
+https://doi.org/10.48550/arXiv.2510.20931)\] \[[data](peak_2025.md)\].
+
 ### 2023: 
 A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Lincoln AI Computing Survey (LAICS) Update," *2023 IEEE High Performance Extreme Computing Conference (HPEC)*, 2023, pp. 1-7, \[[IEEE Xplore doi: 10.1109/HPEC58863.2023.10363568](https://doi.org/10.1109/HPEC58863.2023.10363568)\] \[[ArXiv.org/abs/2310.09145](
 https://doi.org/10.48550/arXiv.2310.09145)\] \[[data](peak_2023.md)\].
