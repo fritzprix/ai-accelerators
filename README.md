@@ -49,3 +49,31 @@ Our recent research focuses on the **Physical Laws of AI Accelerator Efficiency*
 ---
 Copyright 2023-2026 MIT & Contributors
 
+Please acknowledge this work with one or more of the papers above. 
+
+---
+
+## 🚀 Strategic Analysis & Extended Research (2026)
+
+**"Standing on the shoulders of giants."** 
+
+This repository has been extended with independent research that builds upon the foundational datasets provided by the **MIT Lincoln Laboratory Supercomputing Center (LLSC)**. We express our deep gratitude to Albert Reuther and his colleagues for their meticulous collection of AI accelerator data over the years, which made this analysis possible.
+
+This extended work focuses on the **Physical Laws of AI Accelerator Efficiency** and provides a quantitative framework for understanding the strategic consolidation of the semiconductor industry.
+
+### 📚 Extended Reports
+*   **[Tech_Intelligence_Chip_2026.md](reports/Tech_Intelligence_Chip_2026.md)**: Analysis of architecture-process node correlation and the 2026 market landscape.
+*   **[Strategic_Report_EN.docx](reports/Strategic_Report_EN.docx)**: In-depth analysis of NVIDIA's acquisition strategy and the "Slope of Efficiency" theory.
+*   **[Strategic_Report_KR.docx](reports/Strategic_Report_KR.docx)**: Korean version of the strategic research.
+
+### 🧪 Methodology (Independent Analysis)
+*   **[Process Node Modeling](analysis/process_node_analysis.py)**: Python implementation of a regression model derived from the LLSC datasets ($E \propto Node^{-2.05}$).
+*   **[Scientific Visualizations](figures/)**: Charts illustrating the scaling laws and the "latent efficiency" of competitor architectures.
+
+### 🛠 Research Tools
+*   **[Document Automation](tools/md_to_docx.py)**: Utility to convert Markdown research into professional formats.
+
+---
+Copyright 2023 MIT, Albert I. Reuther (Original Dataset & Papers)  
+Extended Analysis by Independent Contributors (2026)
+
