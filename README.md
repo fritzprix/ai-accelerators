@@ -29,8 +29,23 @@ A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Surve
 ### 2019:
 A. Reuther, P. Michaleas, M. Jones, V. Gadepally, S. Samsi and J. Kepner, "Survey and Benchmarking of Machine Learning Accelerators," *2019 IEEE High Performance Extreme Computing Conference (HPEC)*, 2019, pp. 1-9, \[[IEEE Xplore doi:: 10.1109/HPEC.2019.8916327](https://doi.org/10.1109/HPEC.2019.8916327)\] \[[ArXiv.org/abs/1908.11348](https://arxiv.org/abs/1908.11348)\] \[[data](peak_2019.md)\].
 
-Please acknowledge this work with one or more of the papers above. 
+## Research Focus (2025-2026)
 
+Our recent research focuses on the **Physical Laws of AI Accelerator Efficiency** and the strategic consolidation of the semiconductor industry.
 
+### 📚 Research Publications & Reports
+*   **[Tech_Intelligence_Chip_2026.md](reports/Tech_Intelligence_Chip_2026.md)**: Primary research on architecture-process node correlation and the 2026 market landscape.
+*   **[Strategic_Report_EN.docx](reports/Strategic_Report_EN.docx)**: In-depth analysis of NVIDIA's acquisition strategy and the "Slope of Efficiency" theory.
+*   **[Strategic_Report_KR.docx](reports/Strategic_Report_KR.docx)**: Korean version of the strategic research.
 
-Copyright 2023 MIT, Albert I. Reuther
+### 🧪 Methodology & Analysis (Open Science)
+*   **[Data Repository](data/)**: Curated datasets from IEEE-HPEC surveys (2019-2025).
+*   **[Efficiency Modeling](analysis/process_node_analysis.py)**: Python implementation of our regression model ($E \propto Node^{-2.05}$).
+*   **[Visualizations](figures/)**: Scientific charts illustrating the scaling laws and simulation results.
+
+### 🛠 Tools
+*   **[Doc Conversion](tools/md_to_docx.py)**: Automation tool for generating peer-review ready documents from Markdown sources.
+
+---
+Copyright 2023-2026 MIT & Contributors
+
