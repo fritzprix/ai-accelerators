@@ -62,7 +62,6 @@ This repository has been extended with independent research that builds upon the
 This extended work focuses on the **Physical Laws of AI Accelerator Efficiency** and provides a quantitative framework for understanding the strategic consolidation of the semiconductor industry.
 
 ### 📚 Extended Reports
-*   **[Tech_Intelligence_Chip_2026.md](reports/Tech_Intelligence_Chip_2026.md)**: Analysis of architecture-process node correlation and the 2026 market landscape.
 *   **[Strategic_Report_EN.docx](reports/Strategic_Report_EN.docx)**: In-depth analysis of NVIDIA's acquisition strategy and the "Slope of Efficiency" theory.
 *   **[Strategic_Report_KR.docx](reports/Strategic_Report_KR.docx)**: Korean version of the strategic research.
 
